@@ -2,7 +2,7 @@
   "name": "moon-lodash",
   "version": "0.0.0",
   "description": "Lodash wrapper for Moon!",
-  "main": "index.js",
+  "main": "dist/moon-moment.min.js",
   "scripts": {
     "test": "npm run test"
   },
