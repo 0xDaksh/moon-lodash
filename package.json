@@ -1,0 +1,30 @@
+{
+  "name": "moon-lodash",
+  "version": "0.0.0",
+  "description": "Lodash wrapper for Moon!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DakshMiglani/moon-lodash.git"
+  },
+  "keywords": [
+    "lodash",
+    "lodash",
+    "for",
+    "moon",
+    "moon",
+    "lodash",
+    "lodash",
+    "wrapper",
+    "moon"
+  ],
+  "author": "Daksh Miglani <hello@dak.sh> (https://dak.sh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DakshMiglani/moon-lodash/issues"
+  },
+  "homepage": "https://github.com/DakshMiglani/moon-lodash#readme"
+}
